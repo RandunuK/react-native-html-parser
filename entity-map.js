@@ -6,17 +6,6 @@ var EntityMap = {
 	'apos': "'",
 	'laquo': '«',
 	'raquo': '»',
-	'aacute': 'á',
-	'eacute': 'é',
-	'iacute': 'í',
-	'oacute': 'ó',
-	'uacute': 'ú',
-	'Aacute': 'Á',
-	'Eacute': 'É',
-	'Iacute': 'Í',
-	'Oacute': 'Ó',
-	'Uacute': 'Ú',
-	'nbsp': ' ',
 
 	// Math
 
@@ -144,7 +133,7 @@ var EntityMap = {
 	'Dagger': '\u2021', // double dagger
 	'bull': '\u2022', // bullet
 	'hellip': '\u2026', // horizontal ellipsis
-	'permil': '\u2030', // per mille 
+	'permil': '\u2030', // per mille 
 	'prime': '\u2032', // minutes
 	'Prime': '\u2033', // seconds
 	'lsaquo': '\u2039', // single left angle quotation
